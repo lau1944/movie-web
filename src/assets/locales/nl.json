@@ -178,13 +178,9 @@
     },
     "menus": {
       "downloads": {
-<<<<<<< HEAD
         "disclaimer": "Downloads worden direct bij de bron opgehaald. bingo-movie heeft geen controle over het bestand dat je ontvangt.",
-=======
-        "disclaimer": "Downloads worden direct bij de bron opgehaald. movie-web heeft geen controle over het bestand dat je ontvangt.",
         "downloadPlaylist": "Afspeellijst downloaden",
         "downloadSubtitle": "Download huidige ondertiteling",
->>>>>>> 9e61ec27589c1d9b53bd78638d3ca0f748585b3c
         "downloadVideo": "Download filmpje",
         "hlsDisclaimer": "Downloads worden rechtstreeks van de aanbieder gehaald. movie-web heeft geen controle over hoe de downloads worden aangeboden. Houd er rekening mee dat u een HLS-afspeellijst downloadt, deze is bedoeld voor gebruikers die bekend zijn met geavanceerde multimediastreaming.",
         "onAndroid": {

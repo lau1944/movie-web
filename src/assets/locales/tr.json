@@ -178,13 +178,9 @@
     },
     "menus": {
       "downloads": {
-<<<<<<< HEAD
-        "disclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. bingo-movie'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur.",
-=======
-        "disclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. movie-web'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur.",
+        "disclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. Bingo-movie'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur.",
         "downloadPlaylist": "Oynatma listesini indir",
         "downloadSubtitle": "Geçerli altyazıyı indir",
->>>>>>> 9e61ec27589c1d9b53bd78638d3ca0f748585b3c
         "downloadVideo": "Videoyu indir",
         "hlsDisclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. movie-web'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur. Lütfen bir HLS oynatma listesi indirdiğinizi unutmayın; bu, gelişmiş multimedya akışına aşina olan kullanıcılara yöneliktir.",
         "onAndroid": {

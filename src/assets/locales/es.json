@@ -178,13 +178,9 @@
     },
     "menus": {
       "downloads": {
-<<<<<<< HEAD
         "disclaimer": "Las descargas se realizan directamente desde el proveedor. bingo-movie no tiene control sobre cómo se proporcionan las descargas.",
-=======
-        "disclaimer": "Las descargas se realizan directamente desde el proveedor. movie-web no tiene control sobre cómo se proporcionan las descargas.",
         "downloadPlaylist": "Descargar lista de reproducción",
         "downloadSubtitle": "Descargar subtítulo actual",
->>>>>>> 9e61ec27589c1d9b53bd78638d3ca0f748585b3c
         "downloadVideo": "Descargar vídeo",
         "hlsDisclaimer": "Las descargas se realizan directamente del proveedor. movie-web no tiene control sobre cómo se proporcionan las descargas. Tenga en cuenta que está descargando una lista de reproducción HLS, dirigida a usuarios familiarizados con la transmisión multimedia avanzada.",
         "onAndroid": {
