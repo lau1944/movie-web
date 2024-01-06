@@ -1,6 +1,6 @@
 {
   "name": "bingo-movie",
-  "version": "4.2.1",
+  "version": "4.2.3",
   "private": true,
   "homepage": "https://bingo-movie.vercel.app",
   "scripts": {
@@ -28,7 +28,8 @@
   "dependencies": {
     "@formkit/auto-animate": "^0.8.1",
     "@headlessui/react": "^1.7.17",
-    "@movie-web/providers": "^2.0.1",
+    "@ladjs/country-language": "^1.0.3",
+    "@movie-web/providers": "^2.0.2",
     "@noble/hashes": "^1.3.3",
     "@react-spring/web": "^9.7.3",
     "@scure/bip39": "^1.2.2",
@@ -44,7 +45,6 @@
     "hls.js": "^1.4.14",
     "i18next": "^23.7.11",
     "immer": "^10.0.3",
-    "iso-639-1": "^3.1.0",
     "jwt-decode": "^4.0.0",
     "lodash.isequal": "^4.5.0",
     "million": "^2.6.4",

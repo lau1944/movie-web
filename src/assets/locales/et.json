@@ -120,7 +120,10 @@
     },
     "titles": {
       "day": {
-        "default": "Mida te soovite täna pärastlõunal vaadata?"
+        "default": "Mida te soovite täna pärastlõunal vaadata?",
+        "extra": [
+          "Kas tunnete end seiklushimulisena? Jurassic Park võib olla ideaalne valik."
+        ]
       },
       "morning": {
         "default": "Mida te soovite täna hommikul vaadata?",
@@ -203,7 +206,8 @@
         "episodeBadge": "E{{episode}}",
         "loadingError": "Hooaja laadimine ebaōnnestus",
         "loadingList": "Laadimine...",
-        "loadingTitle": "Laadimine..."
+        "loadingTitle": "Laadimine...",
+        "unairedEpisodes": "Üks või mitu selle hooaja episoodi on välja lülitatud, sest neid ei ole veel eetris olnud."
       },
       "playback": {
         "speedLabel": "Taasesituse kiirus",
@@ -255,6 +259,10 @@
       }
     },
     "metadata": {
+      "api": {
+        "text": "API metaandmete laadimine ebaõnnestus, palun kontrollige oma internetiühendust.",
+        "title": "API metaandmete laadimine ebaõnnestus"
+      },
       "failed": {
         "badge": "Ebaōnnestus",
         "homeButton": "Mine koju",
@@ -304,6 +312,12 @@
       "remaining": "{{timeLeft}} alles • Lõppeb {{timeFinished, datetime}}",
       "shortRegular": "{{timeWatched}}",
       "shortRemaining": "-{{timeLeft}}"
+    },
+    "turnstile": {
+      "description": "Palun kinnitage, et olete inimene, täites paremal asuva Captcha. See on selleks, et hoida movie-web turvalisena!",
+      "error": "Ei õnnestunud kontrollida teie inimlikkust. Palun proovige uuesti.",
+      "title": "Me peame kontrollima, et te olete inimene.",
+      "verifyingHumanity": "Kontrollime kas olete robot..."
     }
   },
   "screens": {

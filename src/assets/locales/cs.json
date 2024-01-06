@@ -120,7 +120,10 @@
     },
     "titles": {
       "day": {
-        "default": "Na co byste se chtěli dnes odpoledne dívat?"
+        "default": "Na co byste se chtěli dnes odpoledne dívat?",
+        "extra": [
+          "Chceš zažít dobrodružství? Jurský Park je pro tebe."
+        ]
       },
       "morning": {
         "default": "Na co byste se chtěli dnes ráno dívat?",
@@ -203,7 +206,8 @@
         "episodeBadge": "E{{episode}}",
         "loadingError": "Chyba při načítání sezóny",
         "loadingList": "Načítání...",
-        "loadingTitle": "Načítání..."
+        "loadingTitle": "Načítání...",
+        "unairedEpisodes": "Jedna nebo více epizod v této sezóně nejsou dostupné, protože ještě nebyly odvysílány."
       },
       "playback": {
         "speedLabel": "Rychlost přehrávání",
@@ -414,7 +418,7 @@
     "subtitles": {
       "backgroundLabel": "Neprůhlednost pozadí",
       "colorLabel": "Barva",
-      "previewQuote": "Nesmím se bát. Strach je zabiják mysli.",
+      "previewQuote": "Nesmím se bát. Strach zabíjí myšlení.",
       "textSizeLabel": "Velikost textu",
       "title": "Titulky"
     },
