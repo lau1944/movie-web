@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "movie-web est une application web qui recherche des flux sur Internet. L'équipe vise une approche minimaliste de la consommation de contenu.",
+    "description": "bingo-movie est une application web qui recherche des flux sur Internet. L'équipe vise une approche minimaliste de la consommation de contenu.",
     "faqTitle": "Questions fréquentes",
     "q1": {
-      "body": "movie-web n'héberge aucun contenu. Lorsque vous cliquez sur un élément à regarder, une recherche est effectuée sur Internet pour trouver le média sélectionné (sur l'écran de chargement et dans l'onglet \"sources vidéo\", vous pouvez voir quelle source vous utilisez). Les médias ne sont jamais téléchargés par movie-web, tout passe par ce mécanisme de recherche.",
+      "body": "bingo-movie n'héberge aucun contenu. Lorsque vous cliquez sur un élément à regarder, une recherche est effectuée sur Internet pour trouver le média sélectionné (sur l'écran de chargement et dans l'onglet \"sources vidéo\", vous pouvez voir quelle source vous utilisez). Les médias ne sont jamais téléchargés par bingo-movie, tout passe par ce mécanisme de recherche.",
       "title": "D'où vient le contenu ?"
     },
     "q2": {
-      "body": "Il est impossible de solliciter une émission ou un film car movie-web ne gère aucun contenu. Les sources sur Internet sont utilisées pour consulter tous les contenus.",
+      "body": "Il est impossible de solliciter une émission ou un film car bingo-movie ne gère aucun contenu. Les sources sur Internet sont utilisées pour consulter tous les contenus.",
       "title": "Où puis-je demander une série ou un film ?"
     },
     "q3": {
       "body": "Nos résultats de recherche sont fournis et affichés par The Movie Database (TMDB), que nos sources soient propriétaires du contenu ou non.",
       "title": "Les résultats de la recherche affichent l'émission ou le film, pourquoi ne puis-je pas le lire ?"
     },
-    "title": "À propos de movie-web"
+    "title": "À propos de bingo-movie"
   },
   "actions": {
     "copied": "Copié",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Avertissement",
-      "disclaimerText": "Le site movie-web ne stocke pas de fichiers, mais propose des liens vers des services externes. Les problèmes juridiques doivent être traités avec les fournisseurs et les hébergeurs de fichiers. Les fichiers multimédias diffusés par les fournisseurs de vidéos ne sont pas couverts par movie-web."
+      "disclaimerText": "Le site bingo-movie ne stocke pas de fichiers, mais propose des liens vers des services externes. Les problèmes juridiques doivent être traités avec les fournisseurs et les hébergeurs de fichiers. Les fichiers multimédias diffusés par les fournisseurs de vidéos ne sont pas couverts par bingo-movie."
     },
     "links": {
       "discord": "Discord",
@@ -90,12 +90,12 @@
     "tagline": "Cette application de streaming open source vous permet de regarder vos émissions et films préférés."
   },
   "global": {
-    "name": "movie-web",
+    "name": "bingo-movie",
     "pages": {
       "about": "À propos",
       "dmca": "DMCA",
       "login": "Se connecter",
-      "pagetitle": "{{title}} - movie-web",
+      "pagetitle": "{{title}} - bingo-movie",
       "register": "Créer un compte",
       "settings": "Paramètres"
     }
@@ -175,11 +175,11 @@
     },
     "menus": {
       "downloads": {
-        "disclaimer": "Les téléchargements sont effectués directement par le fournisseur. movie-web n'a aucun contrôle sur la manière dont les téléchargements sont effectués.",
+        "disclaimer": "Les téléchargements sont effectués directement par le fournisseur. bingo-movie n'a aucun contrôle sur la manière dont les téléchargements sont effectués.",
         "downloadPlaylist": "Télécharger la liste de lecture",
         "downloadSubtitle": "Télécharger les sous-titres",
         "downloadVideo": "Télécharger la vidéo",
-        "hlsDisclaimer": "Les téléchargements sont pris directement de la source. Movie-Web n'exerce aucun contrôle sur les méthodes des fournisseurs de téléchargement. Veuillez noter que vous téléchargez une liste de lecture HLS, destinée aux utilisateurs habitués au streaming multimédia avancé.",
+        "hlsDisclaimer": "Les téléchargements sont pris directement de la source. bingo-movie n'exerce aucun contrôle sur les méthodes des fournisseurs de téléchargement. Veuillez noter que vous téléchargez une liste de lecture HLS, destinée aux utilisateurs habitués au streaming multimédia avancé.",
         "onAndroid": {
           "1": "Pour télécharger sur Android, cliquez sur le bouton de téléchargement puis, sur la nouvelle page, <bold>tapez et maintenez </bold> sur la vidéo, puis sélectionnez <bold>enregistrer</bold>.",
           "shortTitle": "Télécharger / Android",
@@ -308,7 +308,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Bienvenue sur la page de contact DMCA de movie-web ! Nous respectons les droits de propriété intellectuelle et souhaitons répondre rapidement à toute question relative aux droits d'auteur. Si vous pensez que votre œuvre protégée par des droits d'auteur a été utilisée de manière inappropriée sur notre plateforme, veuillez envoyer une notification DMCA détaillée à l'adresse électronique ci-dessous. Veuillez inclure une description du matériel protégé par des droits d'auteur, vos coordonnées et une déclaration de bonne foi. Nous nous engageons à résoudre ces problèmes rapidement et vous remercions de votre coopération pour que movie-web reste un lieu respectueux de la créativité et des droits d'auteur.",
+      "text": "Bienvenue sur la page de contact DMCA de bingo-movie ! Nous respectons les droits de propriété intellectuelle et souhaitons répondre rapidement à toute question relative aux droits d'auteur. Si vous pensez que votre œuvre protégée par des droits d'auteur a été utilisée de manière inappropriée sur notre plateforme, veuillez envoyer une notification DMCA détaillée à l'adresse électronique ci-dessous. Veuillez inclure une description du matériel protégé par des droits d'auteur, vos coordonnées et une déclaration de bonne foi. Nous nous engageons à résoudre ces problèmes rapidement et vous remercions de votre coopération pour que bingo-movie reste un lieu respectueux de la créativité et des droits d'auteur.",
       "title": "DMCA"
     },
     "loadingApp": "Chargement de l'application",

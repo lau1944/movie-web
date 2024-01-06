@@ -1,8 +1,8 @@
 {
-  "name": "movie-web",
+  "name": "bingo-movie",
   "version": "4.2.1",
   "private": true,
-  "homepage": "https://movie-web.app",
+  "homepage": "https://bingo-movie.vercel.app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

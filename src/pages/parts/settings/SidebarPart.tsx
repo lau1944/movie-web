@@ -152,17 +152,6 @@ export function SidebarPart() {
               <p className="text-white">{hostname}</p>
             </div>
 
-            {/* Backend URL */}
-            <div className="col-span-2 space-y-1">
-              <div className="text-type-dimmed font-medium flex items-center">
-                <p>{t("settings.sidebar.info.backendUrl")}</p>
-                <SecureBadge url={backendUrl} />
-              </div>
-              <p className="text-white">
-                {backendUrl.replace(/https?:\/\//, "")}
-              </p>
-            </div>
-
             {/* User ID */}
             <div className="col-span-2 space-y-1">
               <p className="text-type-dimmed font-medium">

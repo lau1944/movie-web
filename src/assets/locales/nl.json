@@ -56,7 +56,7 @@
     "title": "Er is iets fout gegaan!"
   },
   "global": {
-    "name": "movie-web",
+    "name": "bingo-movie",
     "pages": {
       "about": "Over",
       "login": "Login",
@@ -108,7 +108,7 @@
     },
     "menus": {
       "downloads": {
-        "disclaimer": "Downloads worden direct bij de bron opgehaald. movie-web heeft geen controle over het bestand dat je ontvangt.",
+        "disclaimer": "Downloads worden direct bij de bron opgehaald. bingo-movie heeft geen controle over het bestand dat je ontvangt.",
         "downloadVideo": "Download filmpje",
         "title": "Download"
       },
